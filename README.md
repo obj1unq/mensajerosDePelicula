@@ -12,7 +12,7 @@
   La empresa utiliza un sistema desarrollado en objetos para identificar que mensajero llevará ese paquete.
   
  De todos los requerimientos que tiene el sistema, en este ejercicio sólo se pide resolver el siguiente:
-  **Determinar si ese *paquete* puede ser entregado por un *mensajero* en un determinado *destino* **. 
+  **Determinar si ese _paquete_ puede ser entregado por un _mensajero_ en un determinado _destino_**. 
   Pero cumplir el objetivo no es tan sencillo, porque hay varias reglas que respetar.
 
 ### Reglas
