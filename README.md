@@ -7,7 +7,7 @@
 
 ## Requerimiento del sistema:  
 
-La empresa utiliza un sistema desarrollado en objetos para identificar que persona llevará ese paquete. De todos los requerimientos que tiene el sistema, en este ejercicio sólo se pide resolver el siguiente: **Determinar si ese _paquete_ puede ser entregado por una _persona_ en un determinado _destino_**, teniendo en cuentalas siguientes reglas.
+La empresa utiliza un sistema desarrollado en objetos para identificar que persona llevará ese paquete. De todos los requerimientos que tiene el sistema, en este ejercicio sólo se pide resolver el siguiente: **Determinar si ese _paquete_ puede ser entregado por una _persona_ en un determinado _destino_**, teniendo en cuenta las siguientes reglas.
 
 ### Reglas
   - Para que el paquete pueda ser entregado debe estar pago. En el ejemplo mencionado está pago, pero no siempre es así. Puede variar. 
@@ -16,9 +16,9 @@ La empresa utiliza un sistema desarrollado en objetos para identificar que perso
     2. *La Matrix*: deja entrar a quien pueda hacer una llamada.
 
  - Las personas mensajeras tienen características particulares:
-   1. *Jean Gray*:Posee poderes telepáticos y telequinesicos, es deceir que puede comunicarse con cualqueir persona en cualquier momento. Su peso es de 900 kg.
+   1. *Jean Gray*:Posee poderes telepáticos y telequinesicos, es decir que puede comunicarse con cualquier persona en cualquier momento (puede llamar siempre). Su peso es de 65 kg.
    2. *Neo*: Neo vuela, así que no pesa nada. Y anda con celular, el muy canchero. El tema es que a veces no puede llamar porque se queda sin crédito.
-   3. *Sara Connor*:  Tiene un peso propio que varía con el tiempo. Viaja en moto ó camión. A ese peso propio se le suma el peso de su vehículo. La moto pesa 100kg. En cambio, el camión pesa media tonelada. Si el camión tiene acoplados, hay que agregar media tonelada adicional por cada uno de ellos. Sara no puede llamar a nadie.
+   3. *Sara Connor*:  Tiene un peso propio que varía con el tiempo (es configurable). Viaja en moto ó camión. A ese peso propio se le suma el peso de su vehículo. La moto pesa 100kg. En cambio, el camión pesa media tonelada. Si el camión tiene acoplados, hay que agregar media tonelada adicional por cada uno de ellos. Sara no puede llamar a nadie.
 
 **Aclaración:** Para el cálculo del peso, el peso del paquete es despreciable.
 
